@@ -5,7 +5,7 @@
 
 (require racket/random)
 
-(require "hw6provided.rkt")
+(require "tetris_provided.rkt")
 (provide my-tetris% my-board%)
 
 ;; overrride tetris class to add 'u' and 'c' key codes
