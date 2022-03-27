@@ -3,14 +3,14 @@
 ;; This file was written by members of the CSE341 course staff at the University of Washington.
 ;; It is included for functionality purposes.
 
-(require "hw6provided.rkt")
-(require "hw6assignment.rkt")
+(require "tetris_provided.rkt")
+(require "tetris_game.rkt")
 
 (define mode (make-parameter 'enhanced))
 
 (define (top-level)
   (command-line
-   #:program "hw6runner"
+   #:program "tetris_runner"
    #:once-any
    ("--original" "Run the provided (base) game."
                  (mode 'original))
