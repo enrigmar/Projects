@@ -1,4 +1,2 @@
-# This project was part of a course designed by Jeffrey Heer and other members of the CSE442 staff at the Univeristy of Washington. 
-The project includes two visuals, one that transparently communicates information from a dataset, and another that deceptively misleads viewers into incorrect 
-perceptions using the same set of data. The graphics are encoded using Vega-Lite, a grammar of interactive graphics created by Jeffrey Heer and others. This project was 
-created and built by myself, Margot Enright-Down. 
+# Deceptive Data Visualization
+This project was part of a course designed by Jeffrey Heer and other members of the CSE442 staff at the Univeristy of Washington. The project includes two visuals, one that transparently communicates information from a dataset, and another that deceptively misleads viewers into incorrect perceptions using the same set of data. The purpose of these visuals is to illustrate the power of graphic manipulation and make evident the responsibility of authors to represent data through transparent and universally comprehensible formats. The graphics are encoded using Vega-Lite, a grammar of interactive graphics created by Jeffrey Heer and others. This project was created and built by myself, Margot Enright-Down. 
