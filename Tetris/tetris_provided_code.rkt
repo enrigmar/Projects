@@ -4,7 +4,7 @@
 ;; It is included for functionality purposes. 
 
 (require racket/random)  ; for random-ref
-(require "hw6graphics.rkt")
+(require "tetris_graphics.rkt")
 
 (provide all-shapes rotations)
 (provide tetris% board%)
